@@ -2,7 +2,7 @@
 A simple 3D height-map renderer. You can rotate models and zoom models.
 
 ### What is fdf?
-[fdf][1] (which stand for "fil de fer" in French or Wire frame) is the first graphic project in UNIT Factory(42) using minilibx (Minilibx is a very basic graphical library writting in C).
+fdf (which stand for "fil de fer" in French or Wire frame) is the first graphic project in UNIT Factory(42) using minilibx (Minilibx is a very basic graphical library writting in C).
 
 The program take a map as arguments which content different number as their height and render it in 3D.
 Mandatory part is **just** rendering and expose hook. All the other features are bonus.
